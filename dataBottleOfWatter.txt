@@ -1,0 +1,7 @@
+Aqua Minerale;2.0;0.5
+Fanta;3.0;0.5
+Sprite;3.0;0.5
+Mirinda;3.0;0.5
+Cola;3.0;0.5
+Pepsi;3.5;0.5
+7up;2.5;0.5
